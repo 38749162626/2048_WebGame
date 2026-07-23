@@ -50,19 +50,6 @@
 
 ---
 
-## 📸 游戏截图与动效
-
-| 游戏进行中 | 游戏结束 |
-|:---:|:---:|
-| ![游戏进行中](./Screenshots/Screenshot_2026-07-23_025658.png) | ![游戏结束](./Screenshots/Screenshot_2026-07-23_030110.png) |
-
-🎬 **动态演示**（GIF）  
-![游戏动效演示](./Screenshots/Recording_2026-07-23_025926.gif)
-
-> 注：请将你的截图文件放入 `Screenshots/` 文件夹，并确保文件名与上述一致（或自行调整路径）。
-
----
-
 ## 📦 下载游戏
 
 如果你希望离线游玩或自行部署，可以从 [Releases](https://github.com/38749162626/2048_WebGame/releases) 页面下载最新构建版本：
@@ -71,7 +58,8 @@
 
 目前支持平台：
 - **WebGL**（可直接在浏览器运行）
-- （未来可能添加 Windows / macOS 等平台）
+- **Windows**
+- **Android**
 
 ---
 
