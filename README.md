@@ -52,7 +52,7 @@
 
 ## 📦 下载游戏
 
-如果你希望离线游玩或自行部署，可以从 [Releases](https://github.com/38749162626/2048_WebGame/releases) 页面下载最新构建版本：
+如果你希望离线游玩或自行部署，可以从 [Releases](https://github.com/38749162626/2048/releases) 页面下载最新构建版本：
 
 [![Download Latest Release](https://img.shields.io/badge/📥-Download_Latest_Release-brightgreen?style=for-the-badge&logo=github)](https://github.com/38749162626/2048_WebGame/releases)
 
